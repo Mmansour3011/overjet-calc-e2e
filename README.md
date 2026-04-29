@@ -4,6 +4,12 @@ Automated E2E test suite for the Windows Calculator app, built with **FlaUI** (U
 
 ---
 
+## Demo
+
+https://github.com/Mmansour3011/overjet-calc-e2e/blob/main/demo.mp4
+
+---
+
 ## Environment
 
 | Item | Value |
